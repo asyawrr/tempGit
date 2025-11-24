@@ -21,6 +21,8 @@ test('get started link', async ({ page }) => {
 // check 1
 // check 2
 // check 3
+
+//check 4
 test('get started link', async ({ page }) => {
   await page.goto('https://playwright.dev/');
 
